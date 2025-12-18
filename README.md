@@ -10,7 +10,6 @@ src="https://i.postimg.cc/XqFm4X97/mostafa-github-png.png" width="100%"/> -->
 📫 Reach me at: <a href="mailto:mostafa@visernic.com">mostafa@visernic.com</a>
 </div>
 
-
 <br/> 
 
  <!-- <p align="center">
