@@ -40,7 +40,7 @@ src="https://i.postimg.cc/XqFm4X97/mostafa-github-png.png" width="100%"/> -->
 
 
 [![Github](https://img.shields.io/github/followers/md-mostafa-niloy?label=Follow&style=social)](https://github.com/md-mostafa-niloy)&nbsp;<!-- ![Profile views](https://gpvc.arturio.dev/md-mostafa-niloy) -->
-[![wakatime](https://wakatime.com/badge/user/b91aacce-e1eb-46ee-8af4-b4fe37728d49.svg)](https://wakatime.com/@b91aacce-e1eb-46ee-8af4-b4fe37728d49)
+[![wakatime](https://wakatime.com/badge/user/3a754859-b972-4632-acbf-8938b6631135.svg)](https://wakatime.com/@3a754859-b972-4632-acbf-8938b6631135)
 
 
 
